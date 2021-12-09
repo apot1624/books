@@ -8,3 +8,7 @@
 [LDD3.pdf](http://apot1624.github.io/books/LDD3.pdf)
 [UTLK_en.pdf](http://apot1624.github.io/books/UTLK_en.pdf)
 [UTLK_cn.pdf](http://apot1624.github.io/books/UTLK_cn.pdf)
+[LKSqjfx.pdf](http://apot1624.github.io/books/LKSqjfx.pdf)
+[LKD_cn.pdf](http://apot1624.github.io/books/LKD_cn.pdf)
+[LPI.pdf](http://apot1624.github.io/books/LPI.pdf)
+[LPI_cn.pdf](http://apot1624.github.io/books/LPI_cn.pdf)
